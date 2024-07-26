@@ -52,13 +52,20 @@ The CS2 Cheat Framework is a simple example of how to interact with a game's mem
 
 ## Usage
 
-1. **Run the Application**:
+1. **Run cs2**
+
+   - Launch `cs2` with -insecure command with startup options
+  ```sh
+    -insecure
+  ```
+
+2. **Run the Application**:
     - Launch the application. It will attempt to find and interact with `cs2.exe`.
 
-2. **Adjust Settings**:
+3. **Adjust Settings**:
     - Use the GUI to adjust the Field of View (FOV) and other settings as needed.
 
-3. **Exit**:
+4. **Exit**:
     - Close the GUI window to stop the application.
 
 ## Disclaimer
