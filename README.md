@@ -56,7 +56,7 @@ The CS2 Cheat Framework is a simple example of how to interact with a game's mem
 
    - Launch `cs2` with -insecure command with startup options
   ```sh
-    -insecure
+  -insecure
   ```
 
 2. **Run the Application**:
