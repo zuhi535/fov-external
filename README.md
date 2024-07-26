@@ -1,4 +1,4 @@
-# CS2 External (FOV) Framework
+# CS2 External (FOV Changer) Framework
 
 **Note:** This project is provided strictly for educational purposes. Using or distributing cheats for online games is unethical and against the terms of service of most games. This repository is meant to demonstrate how one might interact with a game's memory for educational purposes and should not be used to engage in cheating or other malicious activities.
 
