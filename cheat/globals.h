@@ -4,8 +4,8 @@
 namespace offsets
 {
 	//offsets.hpp
-	constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x1823A08;
-	constexpr std::ptrdiff_t dwEntityList = 0x19BDE58;
+	constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x1824A18;
+	constexpr std::ptrdiff_t dwEntityList = 0x19BEED0;
 
 	constexpr std::ptrdiff_t m_vecOrigin = 0x88;
 	constexpr std::ptrdiff_t m_iTeamNum = 0x3C3;
