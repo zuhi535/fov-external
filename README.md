@@ -49,7 +49,8 @@ The CS2 Cheat Framework is a simple example of how to interact with a game's mem
 
 4. **Compile**:
     - Build the project using your IDE or command line tools.
-
+> [!CAUTION]
+> For the code to work properly, it is possible that the offsets need to be changed. Things that change after some game updates from the current specified one (Updated 30.07.2024)
 ## Usage
 
 1. **Run cs2**
